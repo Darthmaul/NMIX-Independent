@@ -14,3 +14,7 @@
 .list-inline {
     margin-bottom: 0;
 }
+
+.names a {
+    text-decoration: underline;
+}
