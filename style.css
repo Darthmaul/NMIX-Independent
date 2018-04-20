@@ -3,4 +3,14 @@
 /* place any css code for 
 /* this project             */
 /*****************************/
+.first-section {
+    background: rgb(66, 68, 66);
+    padding: 15px 0 ;
+}
+.first-section a {
+    color: #FFF;
+}
 
+.list-inline {
+    margin-bottom: 0;
+}
