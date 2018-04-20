@@ -11,10 +11,24 @@
     color: #FFF;
 }
 
+.row {
+    margin-bottom: 15px;
+}
+
 .list-inline {
     margin-bottom: 0;
 }
 
-.names a {
-    text-decoration: underline;
+#S1 {
+    background-color: red;
+    color: black;
+}
+
+#S2 {
+    background-color: blue;
+    color: white;
+}
+
+#S3 {
+    color: #333;
 }
